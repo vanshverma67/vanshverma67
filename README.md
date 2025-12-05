@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Vansh 👋
 
-<!--
-**vanshverma67/vanshverma67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Full Stack Developer  
+I'm currently learning **JavaScript**, building mini-projects, and improving my coding skills every day.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me  
+- 💻 Frontend Developer (Learning Stage)  
+- 📚 Practicing JavaScript (Arrays, DOM, Projects)  
+- 🎮 Gamer | Sniper Lover | YouTube: *vansh790*  
+- 🎯 Goal: Become a Full Stack Developer + Create an Open World Game  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills  
+- HTML  
+- CSS  
+- JavaScript (Basics → Intermediate Learning)
+- Bootstarp 
+- UI/UX Design (Basic)
+
+### 📊 GitHub Stats
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshverma67&show_icons=true)
+ 
