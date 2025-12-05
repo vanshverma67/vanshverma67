@@ -17,5 +17,5 @@ I'm currently learning **JavaScript**, building mini-projects, and improving my 
 - UI/UX Design (Basic)
 
 ### 📊 GitHub Stats
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshverma67&show_icons=true)
+![Vansh's GitHub stats]
  
